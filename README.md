@@ -17,3 +17,11 @@ Let's see!
 ## Solving Issue #3
 
 ...
+
+## Solving issue #4
+
+From a branch to merge with pull requests
+
+## Solving #5
+
+...
