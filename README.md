@@ -13,3 +13,7 @@ Wow, branch 2 :O
 ## Solving Issue #2
 
 Let's see!
+
+## Solving Issue #3
+
+...
